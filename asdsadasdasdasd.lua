@@ -5,6 +5,7 @@ local Wielkikutas = {
    4343265141, -- nieznam ale jest w supporcie lol
    2724199418, -- typa mulciak jakiegos sho
    2333100057, -- kakazit fajny youtuber
+   4739765678, -- kakazit
    8802114643, -- mulciak
     2977285205, 4913516689, 7861993108, 92549643, 8066287221,
    4724198213, 8130211915, 3959147178, 3605210784, 5126518178, 5188434743,
