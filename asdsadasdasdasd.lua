@@ -1,5 +1,7 @@
 local player = game.Players.LocalPlayer
 local Wielkikutas = {
+   9245376827, -- mulciak tego czarnego
+   
    2889270864, -- Support
    3113913852, -- znajomy
    4343265141, -- nieznam ale jest w supporcie lol
