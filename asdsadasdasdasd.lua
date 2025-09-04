@@ -1,4 +1,4 @@
-clocal player = game.Players.LocalPlayer
+local player = game.Players.LocalPlayer
 local Wielkikutas = {
 9350959545,
    7246374110,
